@@ -1,0 +1,250 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.contactbar{
+	
+	height: 100px;
+	background-color: #403F40;
+	border-bottom-color: 2px solid red;
+	
+	
+	
+}
+.left_contact ul{
+	
+	
+}
+
+.left_contact ul li{
+	list-style: none;
+	float: left;
+	padding: 0px 10px;
+	color: #fff;
+	font-size: 15px;
+	text-decoration: none;
+	margin: 10px 0px;
+		
+}
+
+.hero_area{
+	margin: 0;
+	height: 800px;
+	background: linear-gradient(
+		rgba(0,0,0,50.45),
+		rgba(0,184,250,0.45)
+		), url(../images/../images/digital.jpg);
+	background-size: cover;
+	background-position: center center;
+	
+}
+.hero_area h5{
+	
+	padding-top: 20%;
+	text-shadow: 0px 5px 10px black;
+	font-size: 30pt;
+	text-align: justify;
+	color: #fff;
+}
+
+
+
+
+.menu{
+	margin: 0;
+	
+}
+
+.menu ul{
+	
+	
+}
+
+.menu ul li{
+	margin: 40px 0px;
+	list-style: none;
+		float: right;
+	
+	
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 0 20px;
+	border-right: 2px solid red;
+	transition: .3s;
+	
+	
+}
+
+.menu ul li a:hover{
+	text-decoration: none;
+	color: yellow;
+	padding: 0 20px;
+	font-size: 25px;
+	position: sticky;
+}
+
+.logo{
+	padding: 10px;
+	width: auto;
+	height: 250px;
+	margin: 0px 200px;
+	transition: .5s;
+	background-color: #403F40;
+	border-bottom: 2px solid #fff;
+
+}
+
+
+
+
+
+.hero_area ul{
+	padding: 30px 10px;
+}
+
+.hero_area ul li{
+	list-style: none;
+	
+}
+
+.content{
+	top: 50%;
+	float: left;
+}
+	
+	
+.content ul{
+	float: left;
+	
+}
+
+.content ul li{
+	list-style: none;
+	
+}
+
+#section_info{
+	
+	
+	height: 900px;
+	transition: .5s;
+	background: linear-gradient(
+		rgba(0,184,255,0.45),
+		rgba(0,184,250,0.45)
+		),
+		url(../images/just-perfect-ppc-marketing.jpg);
+	background-size: cover;
+	background-position: center center;
+
+	
+}
+
+.container h2{
+	top: 50px;
+	text-align: center;
+	padding: 10px 10px;
+	border-bottom: 5px solid red;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	
+}
+
+.pic_content{
+	margin-top: 200px;
+	
+}
+	
+
+
+.contact_section{
+	
+	background: linear-gradient(
+		rgba(0,184,255,0.45),
+		rgba(0,184,250,0.45)
+		),
+		url(../images/per.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+
+
+
+
+#contacts{
+	
+	padding: 200px 0px;	
+	height: 900px;
+	text-align: center;
+	
+	
+	
+	
+
+
+}	
+	
+
+#contacts p{
+	
+	transition: .5s;
+}	
+
+
+
+
+#contacts p:hover{
+	font-size: 50px;
+	background-color: aquamarine;
+	padding: 0px 5px;
+}	
+
+
+
+.lefe_side_iamge{
+	padding: 50px;
+	
+}
+
+
+
+.col-md-3 {
+	top: 50%;
+	float: left;
+	
+}
+.cont-image{
+	margin-top: 10px;
+	width: 250px;
+	height: 200px;
+	border-radius: 0% 20%;
+	transition: .5s;
+	
+}
+.serviceH1{
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.conten1 h1{
+	font-size: 22px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	text-shadow: 0px 5px 10px black;
+}
+
+.cont-image:hover{
+	
+	width: 250px;
+	height: 200px;
+	border-radius: 20% 0%;
+	box-shadow: 0px 5px 100px white;
+	
+}
